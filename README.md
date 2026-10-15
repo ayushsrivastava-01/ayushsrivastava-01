@@ -103,33 +103,6 @@ const ayush = {
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=10B981&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava-01&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsrivastava-01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 🗓️ **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsrivastava-01&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=10B981&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
----
-
 ## 💼 **Featured Projects**
 
 <div align="center">
@@ -198,14 +171,6 @@ More projects in progress...
 
 ---
 
-## 💭 **Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
 ## 🤝 **Let's Connect & Build Something Amazing**
 
 <div align="center">
@@ -224,9 +189,4 @@ More projects in progress...
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+⭐;Let's+build+something+awesome+together!+🚀" alt="Footer" />
 
-</div>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:10B981,100:7C3AED&height=120&section=footer&animation=fadeIn" />
 </div>
